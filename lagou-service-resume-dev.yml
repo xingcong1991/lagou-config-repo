@@ -4,4 +4,4 @@ lagou:
   message: hello lagou,700
 configuration:
   properties:
-    lagouConfig: 100
+    lagouConfig: 200
