@@ -2,5 +2,6 @@ mysql:
   url: dev-http://localhost:3306/db300
 lagou:
   message: hello lagou,700
-configuration.properties:
-  lagouConfig: 100
+configuration
+  properties:
+    lagouConfig: 100
